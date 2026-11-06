@@ -1,15 +1,18 @@
 <resources>
 
     <string name="app_name">daniel kashi</string>
+
     <string name="welcome_message">ברוכים הבאים!</string>
+
     <string name="click_here">לחץ כאן</string>
-    <string name="my_message">
-דני אבדיה
-    </string>
-    <string name="button_clicked">
-    הכפתור נלחץ
-</string>
-    <string name="reason">אני בחרתי בדני אבדיה בגלל שלפי דעתי הוא השראה לכל ישראלי שחולם על להצליח בכל העולם בגלל שהוא בין הישראלים היחידים שהגיעו לNBA.</string>
+
+    <string name="my_message">להיות ישראלי</string>
+
+    <string name="button_clicked">הכפתור נלחץ</string>
+
+    <string name="reason">בשבילי להיות ישראלי זה לחיות בישראל להנות מהמינהגים הישראלים ולקחת חלק מהחברה הישראלית</string>
+
+    <string name="button_israeli">ללחוץ אם אתה ישראלי</string>
 
 
 </resources>
