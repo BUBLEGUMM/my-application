@@ -15,7 +15,7 @@
         android:layout_marginTop="12dp"
         android:text="@string/my_message"
         android:textColor="#000000"
-        android:textSize="41sp"
+        android:textSize="40sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
