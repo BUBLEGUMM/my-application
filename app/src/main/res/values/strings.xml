@@ -21,4 +21,6 @@
     <string name="opening_chat">פותח צ\'אט...</string>
     <string name="started_following">התחלת לעקוב!</string>
 
+    <string name="guess">guess</string>
+
 </resources>
